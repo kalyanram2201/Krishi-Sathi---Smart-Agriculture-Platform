@@ -78,7 +78,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Ram – B.Tech CSE | AI/ML Enthusiast  
+Kalyanram – B.Tech CSE | AI/ML Enthusiast  
 
 ---
 
